@@ -1,0 +1,12 @@
+.profile {
+ 
+  max-width: 600px;
+  
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+  color: #010101;
+  background-color: aliceblue;
+  flex-direction: column;
+}
