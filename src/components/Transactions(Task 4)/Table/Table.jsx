@@ -1,4 +1,3 @@
-import css from './Table.module.css';
 import PropTypes from 'prop-types';
 export const Table = ({ transactions, children }) => {
   return (
